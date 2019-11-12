@@ -4,16 +4,18 @@ Dit is de backlog van de Voorziening Zaakgerichtwerken - team nieuw
 
 ### Epics
 - Generieke Keten-Inzage-en-Afhandel-Component
-- Recordmanagement
+- Recordmanagement (baseline)
 - Autorisatiebeheer
 - Postverwerking
-- Ontwikkel- en inkoopprincipes
-- Migratiestrategie
-- Centraal beheerportaal
-- Realtime systematisch overzicht
-- Codebibliotheek procesmodellen en procesengine
-- Procescatalogus/procestypecomponent
-- Security
+- Ontwikkelprincipes (bijv. angular)
+- Procesengine ja of nee? welke?
+- Inkoopprincipes (Leveranciersmanagement)
+- Migratiestrategie 
+- Centraal beheerportaal (of inzageportaal) (relatie systematisch overzicht en daadwerkelijke inrichting)
+- Codebibliotheek procesmodellen en procesengine (listeners, stukjes script)
+- Analyse 26 ketens en herkennen herbruikbare modules
+- Procescatalogus/procestypecomponent onderzoeken 
+- Security (cloud)
 - HaalCentraal
 - DigiD (audit)
 - UI's gevoed door procesengine en ZTC
@@ -22,9 +24,9 @@ Dit is de backlog van de Voorziening Zaakgerichtwerken - team nieuw
 - Organisatorisch inrichten technisch beheer
 - UI library met huisstijl (voor verschillende ontwikkeltalen)
 - Developerstrategy
-- Import/exporttool
-- Doelarchitectuur
+- Import/exporttool als generieke tool
+- Doelarchitectuur 
 - Hosting architectuur
-
-### Afwegingen
-- Procesengine ja of nee? welke?
+- invullen eigen opleidingsbehoefte
+- onderhoud demo's compomenten 
+- aansluiting huwelijksplanner
