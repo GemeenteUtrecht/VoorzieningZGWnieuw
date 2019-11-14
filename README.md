@@ -30,3 +30,4 @@ Dit is de backlog van de Voorziening Zaakgerichtwerken - team nieuw
 - invullen eigen opleidingsbehoefte
 - onderhoud demo's compomenten 
 - aansluiting huwelijksplanner
+- onderverdeling inhoud / randvoorwaardelijk
