@@ -31,3 +31,4 @@ Dit is de backlog van de Voorziening Zaakgerichtwerken - team nieuw
 - onderhoud demo's compomenten 
 - aansluiting huwelijksplanner
 - onderverdeling inhoud / randvoorwaardelijk
+- meerdere backlogs per keten, generiek
