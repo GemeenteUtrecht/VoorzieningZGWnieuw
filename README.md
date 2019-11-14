@@ -13,7 +13,7 @@ Dit is de backlog van de Voorziening Zaakgerichtwerken - team nieuw
 - Migratiestrategie 
 - Centraal beheerportaal (of inzageportaal) (relatie systematisch overzicht en daadwerkelijke inrichting)
 - Codebibliotheek procesmodellen en procesengine (listeners, stukjes script)
-- Analyse 26 (of 49?) ketens en herkennen herbruikbare modules
+- Analyse 26 (of 49?) ketens en herkennen herbruikbare modules, beginnen bij generieke deelprocessen
 - Procescatalogus/procestypecomponent onderzoeken 
 - Security (cloud)
 - HaalCentraal
