@@ -9,7 +9,7 @@ Dit is de backlog van de Voorziening Zaakgerichtwerken - team nieuw
 - Postverwerking 
 - Ontwikkelprincipes (bijv. angular of react voor frontend of python)
 - Procesengine ja of nee? welke? 
-- Inkoopprincipes/inkoopstrategie (Leveranciersmanagement, contractbeheer) 
+- Inkoopprincipes/inkoopstrategie (Leveranciersmanagement, contractbeheer) https://github.com/18F/technology-budgeting/blob/master/handbook.md 
 - Migratiestrategie 
 - aansluiten formulieren typo3?
 - onderzoeken alternatieven voor software, voor leveranciers
