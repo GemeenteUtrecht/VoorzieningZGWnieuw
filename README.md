@@ -34,3 +34,4 @@ Dit is de backlog van de Voorziening Zaakgerichtwerken - team nieuw
 - aansluiting huwelijksplanner
 - onderverdeling inhoud / randvoorwaardelijk
 - meerdere backlogs per keten, generiek
+- Logging en auditing
