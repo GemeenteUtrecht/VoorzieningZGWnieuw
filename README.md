@@ -35,3 +35,4 @@ Dit is de backlog van de Voorziening Zaakgerichtwerken - team nieuw
 - onderverdeling inhoud / randvoorwaardelijk
 - meerdere backlogs per keten, generiek
 - Logging en auditing
+- welke tooling hebben we nodig, moet dit in de werkpklek? Hoe kijken we aan tegen gratis tools? (die op enig moment misschien betaald worden)? 
