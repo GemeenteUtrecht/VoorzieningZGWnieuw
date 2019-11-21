@@ -93,6 +93,35 @@ Dit is de backlog van de Voorziening Zaakgerichtwerken - team nieuw
 ### backlog
 - we werken vanuit een backlog per keten, en een backlog generiek
 
+### Organisatie
+- het is duidelijk wat de rol van supplymanager, productowner(s) en scrummaster bij inrichten van de ketens
+  - Hebben we nog met andere partijen te maken? (bijv portfolio manager) 
+  - leveranciersmanagement verdient extra aandacht door het aantal verschillende partijen wat deelneemt aan de inrichting van ketens
+
+### Generieke Keten Inzage en Afhandel Component	
+- het is duidelijk hoe generiek de generieke comonent is. 	
+  -	Wanneer we iedereen gebruik willen maken van hetzelfde wordt autorisatiebeheer ondoenlijk; 
+  -	het werken met applciatie  biedt juist mogelijkheden om de kic als vershcillende applicaties in te zetten
+  -	Er is nog niet nagedacht over autorisatie van gebruikers, rollen of het beheer daarvan
+ 
+### Migratiestrategie	
+- We weten hoe we de overgangsfase zien van werken met het zaaksyteem van exxellence richting werken met gemeentezaak	
+
+### Tooling 	
+- we weten welke oplossingen we in de proeftuin neerzetten en kunnen gebruiken richting productie	
+- we weten of bestaande oplossingen in aanmerking komen als component in een keten (denk aan typo3) 	
+- er is duidelijkheid over de tooling die we gebruiken en waar we deze gebruiken (camunda, postman, valtimo, camunda modeler)  	
+- We willen vanuit onze  wekplek kunnen werken 	
+- Het is duidelijk wat de status van tooling (denk aan gratis software zonder onderhoud, software die op enig moment betaald wordt) en het al dan niet draaien binnen onze werkplek voor risico's met zich meebrengt	
+
+### Centraal beheerportaal (of inzageportaal) (of MOM)  
+- 1. vanuit dit centrale dashboard hebben we zicht op de componenten en hun configuratie in een keten. 
+- 2. oude, huidige en toekomstige versies van het systematisch overzicht zijn in te zien en in geval van toekomstig aan te passen. We zien ook de relatie met daarwerkelijke inrichting (pushen we bijv. configuratie vanuit een conceptversie naar huidige versie en daadwerkelijke inrichting) 
+
+### Identificatie van herbruikbare modules
+- Analyse van het geheel van ketens en generiek bedrijfsprocessen 
+
+
 
 
 
