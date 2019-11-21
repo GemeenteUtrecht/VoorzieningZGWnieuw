@@ -2,6 +2,9 @@
 
 Dit is de backlog van de Voorziening Zaakgerichtwerken - team nieuw
 
+Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit zinvol is 
+
+
 ### Epics  
 
 ### Principes	
@@ -121,6 +124,10 @@ Dit is de backlog van de Voorziening Zaakgerichtwerken - team nieuw
 ### Identificatie van herbruikbare modules
 - Analyse van het geheel van ketens en generiek bedrijfsprocessen 
 
+### Huisstijl
+- UI library met huisstijl (voor verschillende ontwikkeltalen)
+
+### Developerstrategy
 
 
 
