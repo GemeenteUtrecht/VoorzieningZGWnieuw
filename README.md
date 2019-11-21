@@ -28,6 +28,8 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
   -	rma module zelf moet af zijn en gedocumenteerd
   -	hoe kijken we aan tegen rma op documenten zonder zaak? 
   -	er zijn record managers die in de context van ketens kunnen vernietigen
+  - wat is het DMS+ waar UVO het over heeft? 
+
   
 ### Process engine	
 - Het is duidelijk welke process engine(s) we gebruiken en kunnen onderbouwen waarom dat al dan niet relevant is 	
