@@ -88,7 +88,7 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
 - het is duidelijk wat de relatie tussen ons traject en dat van de huwelijksplanner is
 - we willen graag hergebruiken (code, organisatie van beheer) 
 
-### securtiy, logging en auditing	
+### securtiy / privacy / logging / auditing	
 - Het is duidelijk wat er op dit gebied geregeld moet zijn voordat een keten kan worden ingericht	
   -	moeten er PIA's worden uitgevoerd? 
   -	hoe wordt duidelijk wat er gelogd moet worden en hoe de audittrail eruit moet zien? 
