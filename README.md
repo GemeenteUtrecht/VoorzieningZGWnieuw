@@ -16,7 +16,7 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
   -	Hoe wegen we af of  we in een keten af kunnen wijken van generieke componenten? Of van een landelijk beschikbare component
   -	Inkoopprincipes/inkoopstrategie (Leveranciersmanagement, contractbeheer) https://github.com/18F/technology-budgeting/blob/master/handbook.md
   -	Migratiestrategie is duidelijk
-  -	Relatie Haalcentraal en common ground is duidelijk in de context van utrecht
+  -	Relatie Haalcentraal en common ground is duidelijk in de context van utrecht (Wie doet wat? Relatie met Wouter Bruining?)
   -	UI's gevoed door procesengine en ZTC
 
 ### Recordmanagement 	
@@ -40,7 +40,7 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
   -	Procescatalogus/procestypecomponent onderzoeken (komt bij conduction vandaan via huwelijksplanner)
 
 ### Postverwerking
-- We weten wat er met postverwerking mogelijk is; we kunnen slim gescande documenten afhankelijk van de metadat koppelen aan bestaande of nieuwe zaken. Of dossiers? 
+- We weten wat er met postverwerking mogelijk is; we kunnen slim gescande documenten afhankelijk van de metadata koppelen aan bestaande of nieuwe zaken. Of dossiers? 
 
 ### BMPN modellen en modellering
 - er zijn afspraken over het eigenaarschap van modellen en over het beheer van modellen 
@@ -53,20 +53,21 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
   - relatie met single sign on, IAM
   
 ### Inrichten van ketens			
+- Voor we met een "keten" starten weten alle betrokkenen wat de reikwijdte is.
 - We willen de inrichting van ketens gestructureerd oppakken (bijv uitgaan van generieke stukken, stukken die veel businesswaarde opleveren)			
   -	wanneer vragen we een bestaande leverancier of een nieuwe? 		
   -	wanneer maken we een nieuw component? 		
-  -	oo neemt actief aan scrumteam		
+  -	oo neemt actief deel aan scrumteam		
   -	we hebben opleidingsmateriaal om te kunnen starten met een keten		
   -	we hebben een teststraat en geautomatiseerde tests om aanpassingen naar productie te kunnen brengen		
 
 ### Organisatorisch inrichten beheer en support		
 - Voordat we een keten in productie nemen, zijn er afspraken over beheer en support (wijzigingenbeheer, incidenten en calamiteiten)  (zie functionaliteitenbeer Bisl)  		
-  -	Er is duidelijk uit welke componenenten een keten bestaat, en wat waar draait en beheert wordt en door wie(adhv architectuur plaat.	
+  -	Er is duidelijk uit welke componenten een keten bestaat, en wat waar draait en beheert wordt en door wie(adhv architectuur plaat.	
   -	soms volledige applicaties, soms alleen configuratie, soms centraal soms decentraal 	
   -	het is duidelijk waar een gebruiker problemen kan melden (als medewerker of namens een burger)	
   -	functioneel beheer kan overzien welke componenten functioneren en welke niet, zodat er proactief beheer gevoerd kan worden (zowel technische onderlaag als functionele bovenlaag) 	
-  -	idem voor de connectivieteit	
+  -	idem voor de connectiviteit	
   -	invullen eigen opleidingsbehoefte adhv nieuwe componenten 	
   -	onderhoud demoscript 	
 
@@ -74,7 +75,7 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
 - We streven ernaar om compentenen te delen, te hergebruiken of daar waar relevant landelijke standaarden aan te passen	
   - hoe leveren we bruikbare componenten aan andere gemeenten? 
   - hoe kaarten we zaken aan die in standaarden moeten worden opgenomen? 
-  -	hoe hergebruiken we compenten? 
+  -	hoe hergebruiken we componenten? 
   -	HaalCentraal
   
 ### Architectuur	
@@ -94,6 +95,7 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
   -	autorisatie van gebruikers, api en applicatie
   -	security van cloudoplossing 
   -	digid audit
+  - AGV, Landelijke kaders/wetten.
   
 ### backlog
 - we werken vanuit een backlog per keten, en een backlog generiek
@@ -104,9 +106,9 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
   - leveranciersmanagement verdient extra aandacht door het aantal verschillende partijen wat deelneemt aan de inrichting van ketens
 
 ### Generieke Keten Inzage en Afhandel Component	
-- het is duidelijk hoe generiek de generieke comonent is. 	
-  -	Wanneer we iedereen gebruik willen maken van hetzelfde wordt autorisatiebeheer ondoenlijk; 
-  -	het werken met applciatie  biedt juist mogelijkheden om de kic als vershcillende applicaties in te zetten
+- het is duidelijk hoe generiek de generieke component is. 	
+  -	Wanneer we iedereen gebruik willen laten maken van hetzelfde wordt autorisatiebeheer ondoenlijk; 
+  -	het werken met applicaties biedt juist mogelijkheden om de KIC als verschillende applicaties in te zetten
   -	Er is nog niet nagedacht over autorisatie van gebruikers, rollen of het beheer daarvan
  
 ### Migratiestrategie	
@@ -116,7 +118,7 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
 - we weten welke oplossingen we in de proeftuin neerzetten en kunnen gebruiken richting productie	
 - we weten of bestaande oplossingen in aanmerking komen als component in een keten (denk aan typo3) 	
 - er is duidelijkheid over de tooling die we gebruiken en waar we deze gebruiken (camunda, postman, valtimo, camunda modeler)  	
-- We willen vanuit onze  wekplek kunnen werken 	
+- We willen vanuit onze werkplek kunnen werken 	
 - Het is duidelijk wat de status van tooling (denk aan gratis software zonder onderhoud, software die op enig moment betaald wordt) en het al dan niet draaien binnen onze werkplek voor risico's met zich meebrengt	
 
 ### Centraal beheerportaal (of inzageportaal) (of MOM)  
