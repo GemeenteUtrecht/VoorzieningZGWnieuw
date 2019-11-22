@@ -29,6 +29,7 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
   -	hoe kijken we aan tegen rma op documenten zonder zaak? 
   -	er zijn record managers die in de context van ketens kunnen vernietigen
   - wat is het DMS+ waar UVO het over heeft? 
+  - kwaliteitsbeheer? 
 
   
 ### Process engine	
@@ -62,7 +63,8 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
   -	we hebben een teststraat en geautomatiseerde tests om aanpassingen naar productie te kunnen brengen		
 
 ### Organisatorisch inrichten beheer en support		
-- Voordat we een keten in productie nemen, zijn er afspraken over beheer en support (wijzigingenbeheer, incidenten en calamiteiten)  (zie functionaliteitenbeer Bisl)  		
+- Voordat we een keten in productie nemen, zijn er afspraken over beheer en support (wijzigingenbeheer, incidenten en calamiteiten)  (zie functionaliteitenbeer Bisl)  	
+  - hoe worden afspraken vastgelegd en wie beheert deze afspraken? 
   -	Er is duidelijk uit welke componenten een keten bestaat, en wat waar draait en beheert wordt en door wie(adhv architectuur plaat.	
   -	soms volledige applicaties, soms alleen configuratie, soms centraal soms decentraal 	
   -	het is duidelijk waar een gebruiker problemen kan melden (als medewerker of namens een burger)	
@@ -70,6 +72,9 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
   -	idem voor de connectiviteit	
   -	invullen eigen opleidingsbehoefte adhv nieuwe componenten 	
   -	onderhoud demoscript 	
+  - terugmelding
+  - backup en recovery? 
+
 
 ### Landelijke samenwerking	
 - We streven ernaar om compentenen te delen, te hergebruiken of daar waar relevant landelijke standaarden aan te passen	
@@ -96,6 +101,7 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
   -	security van cloudoplossing 
   -	digid audit
   - AGV, Landelijke kaders/wetten.
+  - Toetsen rechtmatigheid en vaststellen autorisatie
   
 ### backlog
 - we werken vanuit een backlog per keten, en een backlog generiek
@@ -117,9 +123,10 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
 ### Tooling 	
 - we weten welke oplossingen we in de proeftuin neerzetten en kunnen gebruiken richting productie	
 - we weten of bestaande oplossingen in aanmerking komen als component in een keten (denk aan typo3) 	
-- er is duidelijkheid over de tooling die we gebruiken en waar we deze gebruiken (camunda, postman, valtimo, camunda modeler)  	
+- er is duidelijkheid over de tooling die we gebruiken en waar we deze gebruiken (camunda, postman, valtimo, camunda modeler, slack, github als samenwerkingsomgeving)  	
 - We willen vanuit onze werkplek kunnen werken 	
 - Het is duidelijk wat de status van tooling (denk aan gratis software zonder onderhoud, software die op enig moment betaald wordt) en het al dan niet draaien binnen onze werkplek voor risico's met zich meebrengt	
+- 
 
 ### Centraal beheerportaal (of inzageportaal) (of MOM)  
 - 1. vanuit dit centrale dashboard hebben we zicht op de componenten en hun configuratie in een keten. 
@@ -133,7 +140,10 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
 
 ### Developerstrategy
 
-
+### Ketenbeheerorganisatie
+- We willen een overzicht van raken, rollen en verantwoordelijkheden binnen ketens. 
+  - opstellen checklist adhv parallellen met stelsenbeheer organisatie https://digiplaza.utrecht.nl/share/page/site/2-ket-tea-stelsel-van-basisregistraties/document-details?nodeRef=workspace://SpacesStore/66bb20fb-e2fc-4a28-98d3-475f255afc63 
+  - kijken naar hergebruik van opzet ketenbeheer in sbs  https://digiplaza.utrecht.nl/share/page/site/2-ket-tea-stelsel-van-basisregistraties/documentlibrary?file=Presentatie%20ketenbeheeroverleg%205%20september.pptx#filter=path%7C%2F01.%20Organisatie%20stelsel%2FAfspraken%20(convenanten%2C%20GLO's%20en%20SLA's)%2FStandaarden 
 
 
 
