@@ -74,6 +74,7 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
   -	onderhoud demoscript 	
   - terugmelding
   - backup en recovery? 
+  - Hosting
 
 
 ### Landelijke samenwerking	
