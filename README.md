@@ -4,7 +4,7 @@ Dit is de backlog van de Voorziening Zaakgerichtwerken - team nieuw
 	
 Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit zinvol is 	
 	
-	
+> toeveogen logging
 ### Epics  	
 	
 ### Principes	
