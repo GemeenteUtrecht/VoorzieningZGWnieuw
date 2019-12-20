@@ -4,8 +4,6 @@ Dit is de backlog van de Voorziening Zaakgerichtwerken - team nieuw
 	
 Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit zinvol is 	
 	
-> toevoegen logging
-
 ### Epics  	
 	
 ### Principes	
@@ -22,7 +20,11 @@ Eventueel onderverdelen in inhoud / randvoorwaardelijk, eerst even kijken of dit
   -	Relatie Haalcentraal en common ground is duidelijk in de context van utrecht (Wie doet wat? Relatie met Wouter Bruining?)
   -	UI's gevoed door procesengine en ZTC
 	alfesco rma decentraal centraal
-  
+	
+### Logging
+- Auditlogging moet worden ingeregeld op elke applicatie 
+- Doelbinding en logging moet worden ingeregeld op de inway en outway in de integratielaag. 
+
 ### Recordmanagement 	
 - het is duidelijk welke mogelijkheden voor recordmanagement we in kunnen zetten binnen ketens	
   - nodig zijn kaders (NEN certificering) en technisch beleid en de component(en) zelf? 	
